@@ -1,0 +1,11 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.idea/
+
+# Roblox Studio lock files
+*.rbxl.lock
+*.rbxlx.lock
